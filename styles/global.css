@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --green: #21EB00;
+    --gray: #191A18;
+}
+body,
+input,
+button,
+textarea{
+    font: 400 1rem 'Roboto', sans-serif;
+    border: none;
+}
+
+button{
+    cursor: pointer;
+}

@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    color: white;
+    background-color: black;
+
+}
+
+.removed-date{
+    display: none;
+}
+
+.date-info h1{
+    font-size: 3.5em;
+    color: var(--green);
+    margin: 10rem 0 3rem 0;
+}
+
+div label{
+    display: block;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+div input{ 
+    cursor: text;
+    background-color: #4c4d4b;
+    color: rgb(167, 166, 166);
+    margin-bottom: 1rem;
+    padding: 0.5rem 4.5rem;
+    border-radius: 10px;
+}
+
+
